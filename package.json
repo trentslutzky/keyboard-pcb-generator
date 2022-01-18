@@ -1,0 +1,11 @@
+{
+  "name": "keyboard-geneator",
+  "version": "1.0.0",
+  "description": "automatically generate pcb files for keyboards",
+  "main": "generate.js",
+  "license": "MIT",
+  "dependencies": {
+    "jsonschema": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
